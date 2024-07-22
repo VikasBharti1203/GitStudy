@@ -1,0 +1,253 @@
+{
+  "TopicMenu": [
+    {
+      "id": 1,
+      "name": "Components Basic"
+    },
+    {
+      "id": 2,
+      "name": "Routing Basics"
+    },
+    {
+      "id": 3,
+      "name": "Pipe Basics"
+    },
+    {
+      "id": 4,
+      "name": "Services Basics"
+    },
+    {
+      "id": 5,
+      "name": "Observables Basics"
+    },
+    {
+      "id": 6,
+      "name": null
+    },
+    {
+      "id": "123",
+      "name": "MyNewTopic"
+    }
+  ],
+  "SubTopicMenu": [
+    {
+      "id": 0,
+      "name": "test",
+      "topicId": 1
+    },
+    {
+      "topicId": 3,
+      "id": 1,
+      "name": "test 222"
+    },
+    {
+      "topicId": 5,
+      "id": 2,
+      "name": "test tttt"
+    }
+  ],
+  "Points": [
+    {}
+  ],
+  "Code": [
+    {}
+  ],
+  "LoanFile": [
+    {
+      "id": 1,
+      "LoanfileStatus": "Active",
+      "loanClosingDate": "",
+      "collectionId": 0,
+      "createdOn": "",
+      "createdBy": "",
+      "lastUpdatedOn": "",
+      "lastUpdatedBy": "",
+      "loanStatus": "Active",
+      "otherCharge": 0,
+      "paymentDetails": "",
+      "ledgerNo": 0,
+      "loanfileNo": 0,
+      "pageNo": 0,
+      "loanEndDate": "",
+      "companyId": "",
+      "customerId": 1,
+      "customerName": "Vikas Bharti",
+      "loanType": "D",
+      "loanStartDate": "2024-07-02T00:14:00",
+      "roi": "10",
+      "period": "123",
+      "requiredLoanAmount": "123123",
+      "totalInterestAmount": 410.41,
+      "passbookCharge": "100",
+      "totalPayableAmount": 123533.41,
+      "paymentMode": "cash",
+      "fromAccId": 1
+    },
+    {
+      "id": 2,
+      "LoanfileStatus": "Active",
+      "loanClosingDate": "",
+      "collectionId": 0,
+      "createdOn": "",
+      "createdBy": "",
+      "lastUpdatedOn": "",
+      "lastUpdatedBy": "",
+      "loanStatus": "Active",
+      "otherCharge": 0,
+      "paymentDetails": "",
+      "ledgerNo": 0,
+      "loanfileNo": 0,
+      "pageNo": 0,
+      "loanEndDate": "",
+      "companyId": "",
+      "customerId": 3,
+      "customerName": "Neeraw Modi",
+      "loanType": "D",
+      "loanStartDate": "2024-07-03T18:13:00",
+      "roi": "10",
+      "period": "100",
+      "requiredLoanAmount": "12000",
+      "totalInterestAmount": 40,
+      "passbookCharge": "100",
+      "totalPayableAmount": 12040,
+      "paymentMode": "cash",
+      "fromAccId": 2
+    },
+    {
+      "id": 3,
+      "LoanfileStatus": "Active",
+      "loanClosingDate": "",
+      "collectionId": 0,
+      "createdOn": "",
+      "createdBy": "",
+      "lastUpdatedOn": "",
+      "lastUpdatedBy": "",
+      "loanStatus": "Active",
+      "otherCharge": 0,
+      "paymentDetails": "",
+      "ledgerNo": 0,
+      "loanfileNo": 0,
+      "pageNo": 0,
+      "loanEndDate": "",
+      "companyId": "",
+      "customerId": 4,
+      "customerName": "Ishwarprasad Sarule",
+      "loanType": "R",
+      "loanStartDate": "2024-07-02T19:17:00",
+      "roi": "10",
+      "period": "100",
+      "requiredLoanAmount": "10000",
+      "totalInterestAmount": 3333,
+      "passbookCharge": "100",
+      "totalPayableAmount": 10000,
+      "paymentMode": "cash",
+      "fromAccId": 3
+    },
+    {
+      "id": 4,
+      "LoanfileStatus": "Active",
+      "loanClosingDate": "",
+      "collectionId": 0,
+      "createdOn": "",
+      "createdBy": "",
+      "lastUpdatedOn": "",
+      "lastUpdatedBy": "",
+      "loanStatus": "Active",
+      "otherCharge": 0,
+      "paymentDetails": "",
+      "ledgerNo": 0,
+      "loanfileNo": 0,
+      "pageNo": 0,
+      "loanEndDate": "",
+      "companyId": "",
+      "customerId": 4,
+      "customerName": "Ishwarprasad Sarule",
+      "loanType": "R",
+      "loanStartDate": "2024-07-03T19:28:00",
+      "roi": "10",
+      "period": "100",
+      "requiredLoanAmount": "123000",
+      "totalInterestAmount": 41000,
+      "passbookCharge": "120",
+      "totalPayableAmount": 123000,
+      "paymentMode": "cash",
+      "fromAccId": 4
+    }
+  ],
+  "customers": [
+    {
+      "customerName": "Vikas B",
+      "id": 1
+    },
+    {
+      "customerName": "Neta B",
+      "id": 2
+    },
+    {
+      "customerName": "Zakkas B",
+      "id": 3
+    },
+    {
+      "customerName": "Veda B",
+      "id": 4
+    },
+    {
+      "customerName": "James B",
+      "id": 5
+    },
+    {
+      "customerName": "Narayan B",
+      "id": 6
+    },
+    {
+      "customerName": "Rinku B",
+      "id": 7
+    }
+  ],
+  "CompanyAdminConfig": [
+    {
+      "clientname": "Tanishk Finance",
+      "password": "pwdpwdpwd",
+      "userid": "Tanishk@Admin",
+      "webappacessYn": true,
+      "mobileappacessYn": true,
+      "validfromdatetime": "2023-09-21T16:11:00",
+      "validtilldatetime": "2023-09-30T19:11:00",
+      "clientActiveStatus": true,
+      "id": 2
+    },
+    {
+      "clientname": "VB Tech soft",
+      "password": "zzzzoooooo",
+      "userid": "vbtech@gh",
+      "webappacessYn": true,
+      "mobileappacessYn": true,
+      "validfromdatetime": "2023-09-30T18:11:00",
+      "validtilldatetime": "2023-10-31T18:11:00",
+      "clientActiveStatus": false,
+      "id": 4
+    },
+    {
+      "clientname": "SparkMinds",
+      "password": "asdfg",
+      "userid": "SparkMind@Tech",
+      "webappacessYn": true,
+      "mobileappacessYn": true,
+      "validfromdatetime": null,
+      "validtilldatetime": "2023-11-30T18:11:00",
+      "clientActiveStatus": true,
+      "id": 5
+    },
+    {
+      "clientname": "Balu Finance",
+      "password": "jhkjh",
+      "userid": "hhhj@hhjk",
+      "webappacessYn": true,
+      "mobileappacessYn": true,
+      "validfromdatetime": null,
+      "validtilldatetime": "2023-11-30T19:11:00",
+      "clientActiveStatus": true,
+      "id": 6
+    }
+  ]
+}
